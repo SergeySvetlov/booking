@@ -38,7 +38,7 @@ const setMap = (activateForm, points, renderPopup) => {
     {
       draggable: true,
       icon: L.icon({
-        iconUrl: './img/main-pin.svg',
+        iconUrl: '../img/main-pin.png',
         iconSize: [52, 52],
         iconAnchor: [26, 52],
       }),
